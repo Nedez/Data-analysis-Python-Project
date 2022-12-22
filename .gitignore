@@ -1,0 +1,11 @@
+venv
+*.pdf
+*.csv
+*.pkl
+*.png
+Code results
+New
+*.xlsx
+*.zip
+*.docx
+*.tmp
